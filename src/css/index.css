@@ -1,0 +1,107 @@
+.navbar {
+  border-bottom: gray 3px dotted;
+  background: #f2f4f7;
+}
+
+.navbar-brand {
+  width: 80px;
+  height: 80px;
+}
+
+.ft {
+
+  height: 50px;
+  background: #f2f4f7;
+  height: 70px;
+  widows: 100%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-top: 5px gray solid;
+}
+
+.navbar h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  width: 80%
+}
+
+.login-form-container {
+  padding-top: 30px;
+  width: 40%;
+  margin-left: 30%;
+}
+
+
+.navbar-brand img {
+  width: 100%;
+}
+
+.loginStatus {
+  margin-top: 10px;
+  padding-top: 10px;
+  width: 40%;
+  text-align: center;
+  background-color: yellow;
+  margin-left: 30%;
+  padding-bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 20px;
+  border-width: 10px;
+  border-color: gray;
+}
+
+.contant_profile {
+  width: 50%;
+  float: left;
+  /*border: 1px solid red;*/
+}
+
+.contant_profile p {
+  text-align: left;
+  font-weight: bold;
+  padding-bottom: 3%;
+  font-size: 20px;
+}
+
+.contant_profile button {
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  background: #bfd2f2;
+  border-radius: 9px;
+  padding: 1% 1%;
+  margin: 5px;
+}
+
+
+
+.label_hd {
+  width: 20%;
+  padding-left: 5%;
+  text-align: left;
+  float: left;
+  /*border: 1px solid red;*/
+}
+
+.label_bd {
+  width: 80%;
+  padding-left: 5%;
+  float: right;
+  text-align: left;
+  /*border: 1px solid blue;*/
+}
+
+.bt_menu img {
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.bt_menu h1 {
+	font-size: 20px;
+	font-weight: bold;
+	
+}
